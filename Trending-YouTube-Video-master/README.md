@@ -9,3 +9,5 @@ In order to run the Dashboad <br>
 this will generate data file at Files/data.csv <br>
 2- run the notebook  --> youtube dashboard.ipynb <br>
 3- Finally go to http://127.0.0.1:8050/ to see the dashboard <br>
+
+-> here's a demo for the project : https://www.youtube.com/watch?v=cBR3ATIRBOM
